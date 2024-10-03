@@ -1,3 +1,5 @@
+![Alt text](path/to/your/image.png)
+
 # Emmanuel DK Dolo
 
 ## Personal Introduction
