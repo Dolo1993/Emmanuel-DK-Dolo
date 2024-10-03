@@ -1,7 +1,7 @@
 # Emmanuel DK Dolo
 
 ## Personal Introduction
-Hello! I’m Emmanuel DK Dolo, a junior software engineer passionate about building innovative solutions and continuously learning. I hold a degree in [Your Degree] from [Your University] and have experience in various programming languages and development tools. My interests include software development, web technologies, and contributing to open-source projects.
+Hello! My name is Emmanuel DK Dolo, a junior software engineer with a passion for building innovative solutions and a commitment to lifelong learning. I’m currently pursuing a Bachelor’s degree in Software Engineering from Brigham Young University. Over time, I’ve developed a strong foundation in various programming languages and development tools. My interests span software development, web technologies, and contributing to open-source projects, where I find joy in creating and improving software that impacts communities.
 
 ## Skills and Technologies
 - **Programming Languages:** JavaScript, Python, HTML5, CSS Level 3
