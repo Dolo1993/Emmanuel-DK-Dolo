@@ -9,19 +9,22 @@ Hello! My name is Emmanuel DK Dolo, a junior software engineer with a passion fo
 - **Tools:** Git, GitHub, Visual Studio Code, SeaLion, Visual Studio Community
 - **Databases:** MySQL, pgAdmin, MongoDB
 
-## Projects and Work
-1. **To-Do-List**
+
+1. **TaskManager**
+   - **Description:** The software I developed is a command-line task manager written in Kotlin. It allows users to add, list, remove, mark tasks as completed, and save tasks to a file. The software leverages Kotlin's concise and expressive syntax to create an interactive user experience and manage task data efficiently.
+   - **Technologies Used:** Kotlin and I used the IntelliJ IDEA integrated development environment for Kotlin development.
+   - **Link:** [Click Me](https://github.com/Dolo1993/Kotlin-TaskManager)
+   - **Notable Achievements:** Successfully developed a fully functional command-line task manager that allows users to seamlessly manage their tasks, demonstrating proficiency in Kotlin’s data classes. The project was completed within a set timeframe and received positive feedback for its clean code structure.
+
+     
+## Projects and Work 
+2. **To-Do-List**
    - **Description:**
  In this project, I have developed a web-based to-do list application to showcase my skills as a software engineer and further my learning in JavaScript. The primary goal of this project is to demonstrate proficiency in JavaScript and its associated technologies by creating a functional to-do list that allows users to add, remove, and mark tasks as completed.
    - **Technologies Used:** Javascript, HTML, CSS, and Visual Studio Code as the Text Editor.
-   - **Link:** [Click me](https://github.com/Dolo1993/JavaScript-To-Do-List)
-   - **Notable Achievements:** [Any specific achievements, such as features added or problems solved]
+   - **Link:** [Click me]( https://dolo1993.github.io/JavaScript-To-Do-List/)
+   - **Notable Achievements:** Successfully implemented features such as task categorization, a clear user interface, and local storage to save user data between sessions. This project received positive feedback for its intuitive design and functionality.
 
-2. **[Project Title 2]**
-   - **Description:** A brief overview of what this project is about.
-   - **Technologies Used:** [List the technologies used in this project]
-   - **Link:** [GitHub Repository Link](https://github.com/YourGitHubUsername/ProjectTitle2)
-   - **Notable Achievements:** [Any specific achievements, such as features added or problems solved]
 
 ## GitHub Statistics
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&hide_title=true&count_private=true)
