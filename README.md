@@ -1,6 +1,7 @@
 # Emmanuel DK Dolo
 
-## Personal Introduction
+## Personal Introduction 
+![Profile Image](https://github.com/Dolo1993/Emmanuel-DK-Dolo/blob/main/me.jpg)
 Hello! My name is Emmanuel DK Dolo, a junior software engineer with a passion for building innovative solutions and a commitment to lifelong learning. I am currently pursuing a Bachelor’s degree in Software Engineering from Brigham Young University-Idaho. Over time, I have developed a strong foundation in various programming languages and development tools. My interests span software development, web technologies, and contributing to open-source projects, where I find joy in creating and improving software that impacts communities.
 
 ## Skills and Technologies
