@@ -21,7 +21,7 @@ Hello! My name is Emmanuel DK Dolo, and I am a junior software engineer with a p
    - **Achievements:** Successfully implemented features such as an inventory list, inventory details, and a clear user interface.
   
 
-   2. **TaskManager**
+2. **TaskManager**
    - **Description:** The software I developed is a command-line task manager written in Kotlin. It allows users to add, list, remove, mark tasks as completed, and save tasks to a file. The software leverages Kotlin's concise and expressive syntax to create an interactive user experience and manage task data efficiently.
    - **Technologies Used:** Kotlin and I used the IntelliJ IDEA integrated development environment for Kotlin development.
    - **Link:** [Click Me](https://github.com/Dolo1993/Kotlin-TaskManager)
